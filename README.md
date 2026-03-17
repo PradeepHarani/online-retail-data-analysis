@@ -53,7 +53,7 @@ The dataset contains transactional data from an online retail store, including:
 ---
 
 ### 🏆 Top Products by Revenue
-![Top Products](images/top_products_revenue.png)
+![Top Products](Images/top_products_revenue.png)
 
 **Insight:**
 - A small number of products generate the majority of revenue.
@@ -63,7 +63,7 @@ The dataset contains transactional data from an online retail store, including:
 ---
 
 ### 🌍 Country-wise Revenue
-![Country Revenue](images/country_revenue.png)
+![Country Revenue](Images/country_revenue.png)
 
 **Insight:**
 - The majority of revenue comes from a single dominant country (UK).
@@ -73,7 +73,7 @@ The dataset contains transactional data from an online retail store, including:
 ---
 
 ### 📊 Customer Pareto Analysis
-![Pareto](images/customer_pareto.png)
+![Pareto](Images/customer_pareto.png)
 
 **Insight:**
 - A small percentage of customers contribute a large portion of total revenue (80/20 rule).
@@ -83,7 +83,7 @@ The dataset contains transactional data from an online retail store, including:
 ---
 
 ### 👥 RFM Customer Segmentation
-![RFM](images/rfm_segments.png)
+![RFM](Images/rfm_segments.png)
 
 **Insight:**
 - Customers are distributed across multiple segments, with a large portion being low-frequency buyers.
