@@ -89,3 +89,10 @@ The dataset contains transactional data from an online retail store, including:
 - Customers are distributed across multiple segments, with a large portion being low-frequency buyers.
 - High-value customers are limited but contribute significantly to revenue.
 - Targeted marketing strategies can help convert low-value customers into loyal ones.
+
+**Dataset Source:**
+The dataset used in this project is available on Kaggle:
+
+👉[ https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+
+Due to file size limitations, the dataset is not included in this repository. Please download it from the above link and place it inside the `data/` folder.
