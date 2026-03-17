@@ -43,7 +43,7 @@ The dataset contains transactional data from an online retail store, including:
 ## 📊 Key Visualizations
 
 ### 📈 Monthly Revenue Trend
-![Monthly Revenue]("images/monthly_revenue.png")
+![Monthly Revenue]("Images/monthly_revenue.png")
 
 **Insight:**
 - Revenue shows strong seasonality with peaks towards the end of the year.
